@@ -1,0 +1,31 @@
+h1{
+    font-size: 80px;
+    font-family: Impact;
+}
+p{
+    font-size: 35px;
+    font-family: "Times New Roman";
+    font-weight: 400;
+}
+.btn{
+    width: 250px;
+    height: 80px;
+    margin-inline: auto;
+    border-radius: 0;
+    border: solid 1px black;
+    transition: all 0s 0s;
+}
+.btn:hover{
+    background-color: #008001;
+    border: solid 2px black;
+}
+#demo {
+    font-size: 35px;
+    font-family: "Times New Roman";
+    font-weight: 400;
+}
+#dimo {
+    font-size: 35px;
+    font-family: "Times New Roman";
+    font-weight: 400;
+}
